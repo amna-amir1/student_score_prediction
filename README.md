@@ -16,7 +16,7 @@ This project uses a **Student Performance Factors** from Kaggle, commonly used f
 
 - Dataset name: Student Performance Factors  
 - Link:https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
-Note: The dataset is not included in this repository. Please download it directly from Kaggle using the link above.
+  Note: The dataset is not included in this repository. Please download it directly from Kaggle using the link above.
 
 ## Dataset description
 - Original dataset contains **21 features**, including both numeric and categorical features
