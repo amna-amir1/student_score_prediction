@@ -11,6 +11,14 @@ The project uses **machine learning models** trained in Python and provides a **
 - Easy to use sliders and dropdowns for all input features
 
 ## Dataset
+
+This project uses a **Student Performance Factors** from Kaggle, commonly used for exam score prediction.
+
+- Dataset name: Student Performance Factors  
+- Link:https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
+Note: The dataset is not included in this repository. Please download it directly from Kaggle using the link above.
+
+## Dataset description
 - Original dataset contains **21 features**, including both numeric and categorical features
 - Missing values are handled by dropping or imputing as required
 - Categorical features are converted to numeric using **One-Hot Encoding**
